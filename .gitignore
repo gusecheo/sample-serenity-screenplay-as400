@@ -1,0 +1,12 @@
+target/
+history/
+bin/
+build
+out
+.gradle
+.idea
+*.iml
+.DS_Store
+._*
+
+!/.mvn/wrapper/maven-wrapper.jar
